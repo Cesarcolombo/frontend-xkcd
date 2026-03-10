@@ -19,5 +19,8 @@ the content looks like the code of a file. some kind of code that make it visibl
 We create a js function to fecth a page and print one of its data
 
 ## Step 2
-We upgrade the visualisation of the page. To ensure image and button do not everlap eachtoher
+We upgrade the visualisation of the page. To ensure image and button do not everlap eachtoher. already done
+
+## Step 3
+
 
